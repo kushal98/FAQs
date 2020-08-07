@@ -1,6 +1,19 @@
-.App {
-  text-align: center;
+
+
+.Content {
   padding: 20px;
+}
+
+.Header{
+  padding: 10px;
+  text-align: center;
+  background: #eeeeee;
+}
+
+.Footer{
+  padding: 10px;
+  text-align: center;
+  background: #eeeeee;
 }
 
 .App-logo {
